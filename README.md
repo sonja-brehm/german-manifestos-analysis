@@ -33,8 +33,13 @@ I separated this code from the previous notebook (04.1_Topic-Modelling) to test 
 
 ### Other folders
 - **stopwords:** Contains some of the stopword lists (and their MIT licences), which are tested in notebook 02.
-- **data:** Contains images that are included in the notebooks. Originally, the dataset was also stored here.
+- **data:** Contains images that are included in the readme & notebooks. Originally, the dataset was also stored here.
 
+## Some of the resulting graphs
+<img src="data/images/cosine.png" width="400"/>
+<img src="data/images/klimaschutz.png" width="600"/>
+<img src="data/images/immigration.png" width="600"/>
+<img src="data/images/energie.png" width="600"/>
 
 ## Credits
 As mentioned, I tried out different stopword lists and lemmatisers in the second notebook. To give them the credit they deserve, here is a list of what I used:
